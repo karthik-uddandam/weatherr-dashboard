@@ -45,4 +45,4 @@ The Weather Power BI Dashboard successfully converts complex weather data into c
 By sharing it on GitHub, the project serves as both a portfolio piece and a resource for others interested in weather analytics or Power BI development.
 
 
-WEATHER DASHBOARD SNAPSHOT : 
+WEATHER DASHBOARD SNAPSHOT : https://github.com/karthik-uddandam/weatherr-dashboard/blob/main/weather%20dashboard%20snap.png
