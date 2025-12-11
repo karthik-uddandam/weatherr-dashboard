@@ -43,3 +43,6 @@ Pre-processing or validating datasets before importing into Power BI .
 
 The Weather Power BI Dashboard successfully converts complex weather data into clear, interactive visual insights. It allows users to monitor trends, compare metrics, and gain a deeper understanding of weather patterns over time. This project demonstrates strong skills in data cleaning, modeling, visualization, and dashboard design.
 By sharing it on GitHub, the project serves as both a portfolio piece and a resource for others interested in weather analytics or Power BI development.
+
+
+WEATHER DASHBOARD SNAPSHOT : 
